@@ -1,0 +1,16 @@
+/home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup//launch/testbed_full_bringup.launch.py
+/home/harry/assignment_ws/install/testbed_bringup/share/ament_index/resource_index/package_run_dependencies/testbed_bringup
+/home/harry/assignment_ws/install/testbed_bringup/share/ament_index/resource_index/parent_prefix_path/testbed_bringup
+/home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/environment/ament_prefix_path.sh
+/home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/environment/ament_prefix_path.dsv
+/home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/environment/path.sh
+/home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/environment/path.dsv
+/home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/local_setup.bash
+/home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/local_setup.sh
+/home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/local_setup.zsh
+/home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/local_setup.dsv
+/home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/package.dsv
+/home/harry/assignment_ws/install/testbed_bringup/share/ament_index/resource_index/packages/testbed_bringup
+/home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/cmake/testbed_bringupConfig.cmake
+/home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/cmake/testbed_bringupConfig-version.cmake
+/home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/package.xml

@@ -1,0 +1,47 @@
+[0.009s] Invoking command in '/home/harry/assignment_ws/build/testbed_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harry/assignment_ws/src/testbed_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/assignment_ws/install/testbed_navigation
+[0.050s] -- The C compiler identification is GNU 11.4.0
+[0.092s] -- The CXX compiler identification is GNU 11.4.0
+[0.097s] -- Detecting C compiler ABI info
+[0.143s] -- Detecting C compiler ABI info - done
+[0.146s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.147s] -- Detecting C compile features
+[0.147s] -- Detecting C compile features - done
+[0.149s] -- Detecting CXX compiler ABI info
+[0.202s] -- Detecting CXX compiler ABI info - done
+[0.205s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.205s] -- Detecting CXX compile features
+[0.206s] -- Detecting CXX compile features - done
+[0.207s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.294s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.328s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.346s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.388s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.388s] -- Added test 'lint_cmake' to check CMake code style
+[0.388s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.389s] -- Added test 'xmllint' to check XML markup files
+[0.390s] -- Configuring done
+[0.391s] -- Generating done
+[0.391s] -- Build files have been written to: /home/harry/assignment_ws/build/testbed_navigation
+[0.394s] Invoked command in '/home/harry/assignment_ws/build/testbed_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harry/assignment_ws/src/testbed_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/assignment_ws/install/testbed_navigation
+[0.396s] Invoking command in '/home/harry/assignment_ws/build/testbed_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/assignment_ws/build/testbed_navigation -- -j28 -l28
+[0.424s] Invoked command in '/home/harry/assignment_ws/build/testbed_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/assignment_ws/build/testbed_navigation -- -j28 -l28
+[0.425s] Invoking command in '/home/harry/assignment_ws/build/testbed_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/assignment_ws/build/testbed_navigation
+[0.433s] -- Install configuration: ""
+[0.433s] -- Execute custom install script
+[0.433s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/testbed_navigation/launch/map_loader.launch.py
+[0.439s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/ament_index/resource_index/package_run_dependencies/testbed_navigation
+[0.446s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/ament_index/resource_index/parent_prefix_path/testbed_navigation
+[0.452s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/testbed_navigation/environment/ament_prefix_path.sh
+[0.457s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/testbed_navigation/environment/ament_prefix_path.dsv
+[0.462s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/testbed_navigation/environment/path.sh
+[0.466s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/testbed_navigation/environment/path.dsv
+[0.471s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/testbed_navigation/local_setup.bash
+[0.475s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/testbed_navigation/local_setup.sh
+[0.481s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/testbed_navigation/local_setup.zsh
+[0.487s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/testbed_navigation/local_setup.dsv
+[0.492s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/testbed_navigation/package.dsv
+[0.498s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/ament_index/resource_index/packages/testbed_navigation
+[0.503s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/testbed_navigation/cmake/testbed_navigationConfig.cmake
+[0.509s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/testbed_navigation/cmake/testbed_navigationConfig-version.cmake
+[0.514s] -- Symlinking: /home/harry/assignment_ws/install/testbed_navigation/share/testbed_navigation/package.xml
+[0.521s] Invoked command in '/home/harry/assignment_ws/build/testbed_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/assignment_ws/build/testbed_navigation

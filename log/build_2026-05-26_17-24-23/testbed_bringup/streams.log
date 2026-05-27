@@ -1,0 +1,35 @@
+[0.009s] Invoking command in '/home/harry/assignment_ws/build/testbed_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harry/assignment_ws/src/l1-harryparikh/testbed_bringup -DCMAKE_INSTALL_PREFIX=/home/harry/assignment_ws/install/testbed_bringup
+[0.017s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.099s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.103s] -- Found rclpy: 3.3.17 (/opt/ros/humble/share/rclpy/cmake)
+[0.104s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.145s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.145s] -- Added test 'lint_cmake' to check CMake code style
+[0.146s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.146s] -- Added test 'xmllint' to check XML markup files
+[0.146s] -- Configuring done
+[0.148s] -- Generating done
+[0.149s] -- Build files have been written to: /home/harry/assignment_ws/build/testbed_bringup
+[0.151s] Invoked command in '/home/harry/assignment_ws/build/testbed_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harry/assignment_ws/src/l1-harryparikh/testbed_bringup -DCMAKE_INSTALL_PREFIX=/home/harry/assignment_ws/install/testbed_bringup
+[0.154s] Invoking command in '/home/harry/assignment_ws/build/testbed_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/assignment_ws/build/testbed_bringup -- -j28 -l28
+[0.181s] Invoked command in '/home/harry/assignment_ws/build/testbed_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/assignment_ws/build/testbed_bringup -- -j28 -l28
+[0.189s] Invoking command in '/home/harry/assignment_ws/build/testbed_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/assignment_ws/build/testbed_bringup
+[0.193s] -- Install configuration: ""
+[0.193s] -- Execute custom install script
+[0.193s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup//launch/testbed_full_bringup.launch.py
+[0.195s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/ament_index/resource_index/package_run_dependencies/testbed_bringup
+[0.195s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/ament_index/resource_index/parent_prefix_path/testbed_bringup
+[0.195s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/environment/ament_prefix_path.sh
+[0.195s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/environment/ament_prefix_path.dsv
+[0.195s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/environment/path.sh
+[0.195s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/environment/path.dsv
+[0.195s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/local_setup.bash
+[0.196s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/local_setup.sh
+[0.196s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/local_setup.zsh
+[0.196s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/local_setup.dsv
+[0.197s] -- Symlinking: /home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/package.dsv
+[0.200s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/ament_index/resource_index/packages/testbed_bringup
+[0.200s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/cmake/testbed_bringupConfig.cmake
+[0.200s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/cmake/testbed_bringupConfig-version.cmake
+[0.201s] -- Up-to-date symlink: /home/harry/assignment_ws/install/testbed_bringup/share/testbed_bringup/package.xml
+[0.202s] Invoked command in '/home/harry/assignment_ws/build/testbed_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/assignment_ws/build/testbed_bringup
