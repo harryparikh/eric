@@ -1,0 +1,62 @@
+[0.009s] Invoking command in '/home/harry/assignment_ws/src/l1-harryparikh/build/testbed_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harry/assignment_ws/src/l1-harryparikh/testbed_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description
+[0.046s] -- The C compiler identification is GNU 11.4.0
+[0.079s] -- The CXX compiler identification is GNU 11.4.0
+[0.084s] -- Detecting C compiler ABI info
+[0.134s] -- Detecting C compiler ABI info - done
+[0.138s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.138s] -- Detecting C compile features
+[0.138s] -- Detecting C compile features - done
+[0.140s] -- Detecting CXX compiler ABI info
+[0.193s] -- Detecting CXX compiler ABI info - done
+[0.199s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.200s] -- Detecting CXX compile features
+[0.200s] -- Detecting CXX compile features - done
+[0.202s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.291s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.328s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.347s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[0.411s] -- Configuring done
+[0.412s] -- Generating done
+[0.413s] -- Build files have been written to: /home/harry/assignment_ws/src/l1-harryparikh/build/testbed_description
+[0.418s] Invoked command in '/home/harry/assignment_ws/src/l1-harryparikh/build/testbed_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harry/assignment_ws/src/l1-harryparikh/testbed_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description
+[0.418s] Invoking command in '/home/harry/assignment_ws/src/l1-harryparikh/build/testbed_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/assignment_ws/src/l1-harryparikh/build/testbed_description -- -j28 -l28
+[0.447s] Invoked command in '/home/harry/assignment_ws/src/l1-harryparikh/build/testbed_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/assignment_ws/src/l1-harryparikh/build/testbed_description -- -j28 -l28
+[0.449s] Invoking command in '/home/harry/assignment_ws/src/l1-harryparikh/build/testbed_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/assignment_ws/src/l1-harryparikh/build/testbed_description
+[0.453s] -- Install configuration: ""
+[0.454s] -- Execute custom install script
+[0.454s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/meshes/base_link.stl
+[0.460s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/meshes/caster_1.stl
+[0.466s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/meshes/caster_2.stl
+[0.471s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/meshes/caster_3.stl
+[0.476s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/meshes/caster_4.stl
+[0.481s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/meshes/dummy_link_1.stl
+[0.485s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/meshes/imu_link_1.stl
+[0.492s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/meshes/left_wheel_1.stl
+[0.496s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/meshes/lidar_link_1.stl
+[0.501s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/meshes/right_wheel_1.stl
+[0.506s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/urdf/materials.xacro
+[0.511s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/urdf/testbed.gazebo
+[0.516s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/urdf/testbed.trans
+[0.522s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/urdf/testbed.xacro
+[0.527s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/launch/robot_description.launch.py
+[0.533s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/launch/testbed_rviz_barebones.launch.py
+[0.538s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/rviz/full_bringup.rviz
+[0.545s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/rviz/testbed_barebones.rviz
+[0.552s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/rviz/urdf_gazebo.rviz
+[0.558s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/rviz/urdf_vis_rviz
+[0.563s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/ament_index/resource_index/package_run_dependencies/testbed_description
+[0.568s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/ament_index/resource_index/parent_prefix_path/testbed_description
+[0.574s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/environment/ament_prefix_path.sh
+[0.579s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/environment/ament_prefix_path.dsv
+[0.584s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/environment/path.sh
+[0.588s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/environment/path.dsv
+[0.593s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/local_setup.bash
+[0.598s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/local_setup.sh
+[0.603s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/local_setup.zsh
+[0.608s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/local_setup.dsv
+[0.613s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/package.dsv
+[0.618s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/ament_index/resource_index/packages/testbed_description
+[0.624s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/cmake/testbed_descriptionConfig.cmake
+[0.630s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/cmake/testbed_descriptionConfig-version.cmake
+[0.635s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/package.xml
+[0.643s] Invoked command in '/home/harry/assignment_ws/src/l1-harryparikh/build/testbed_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/assignment_ws/src/l1-harryparikh/build/testbed_description

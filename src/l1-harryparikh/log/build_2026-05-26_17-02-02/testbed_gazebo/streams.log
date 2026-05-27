@@ -1,0 +1,68 @@
+[0.006s] Invoking command in '/home/harry/assignment_ws/src/l1-harryparikh/build/testbed_gazebo': AMENT_PREFIX_PATH=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_gazebo:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_description:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_bringup:/home/harry/turtlebot3_ws/install/turtlebot3_simulations:/home/harry/turtlebot3_ws/install/turtlebot3_manipulation_gazebo:/home/harry/turtlebot3_ws/install/turtlebot3_gazebo:/home/harry/turtlebot3_ws/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake /home/harry/assignment_ws/src/l1-harryparikh/testbed_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo
+[0.048s] -- The C compiler identification is GNU 11.4.0
+[0.079s] -- The CXX compiler identification is GNU 11.4.0
+[0.083s] -- Detecting C compiler ABI info
+[0.131s] -- Detecting C compiler ABI info - done
+[0.136s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.136s] -- Detecting C compile features
+[0.136s] -- Detecting C compile features - done
+[0.137s] -- Detecting CXX compiler ABI info
+[0.193s] -- Detecting CXX compiler ABI info - done
+[0.197s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.197s] -- Detecting CXX compile features
+[0.198s] -- Detecting CXX compile features - done
+[0.199s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.288s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.321s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.340s] -- Found rclpy: 3.3.17 (/opt/ros/humble/share/rclpy/cmake)
+[0.340s] -- Found testbed_description: 0.0.0 (/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description/share/testbed_description/cmake)
+[0.342s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.391s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.392s] -- Added test 'lint_cmake' to check CMake code style
+[0.392s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.393s] -- Added test 'xmllint' to check XML markup files
+[0.394s] -- Configuring done
+[0.395s] -- Generating done
+[0.395s] -- Build files have been written to: /home/harry/assignment_ws/src/l1-harryparikh/build/testbed_gazebo
+[0.398s] Invoked command in '/home/harry/assignment_ws/src/l1-harryparikh/build/testbed_gazebo' returned '0': AMENT_PREFIX_PATH=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_gazebo:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_description:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_bringup:/home/harry/turtlebot3_ws/install/turtlebot3_simulations:/home/harry/turtlebot3_ws/install/turtlebot3_manipulation_gazebo:/home/harry/turtlebot3_ws/install/turtlebot3_gazebo:/home/harry/turtlebot3_ws/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake /home/harry/assignment_ws/src/l1-harryparikh/testbed_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo
+[0.399s] Invoking command in '/home/harry/assignment_ws/src/l1-harryparikh/build/testbed_gazebo': AMENT_PREFIX_PATH=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_gazebo:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_description:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_bringup:/home/harry/turtlebot3_ws/install/turtlebot3_simulations:/home/harry/turtlebot3_ws/install/turtlebot3_manipulation_gazebo:/home/harry/turtlebot3_ws/install/turtlebot3_gazebo:/home/harry/turtlebot3_ws/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake --build /home/harry/assignment_ws/src/l1-harryparikh/build/testbed_gazebo -- -j28 -l28
+[0.426s] Invoked command in '/home/harry/assignment_ws/src/l1-harryparikh/build/testbed_gazebo' returned '0': AMENT_PREFIX_PATH=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_gazebo:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_description:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_bringup:/home/harry/turtlebot3_ws/install/turtlebot3_simulations:/home/harry/turtlebot3_ws/install/turtlebot3_manipulation_gazebo:/home/harry/turtlebot3_ws/install/turtlebot3_gazebo:/home/harry/turtlebot3_ws/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake --build /home/harry/assignment_ws/src/l1-harryparikh/build/testbed_gazebo -- -j28 -l28
+[0.427s] Invoking command in '/home/harry/assignment_ws/src/l1-harryparikh/build/testbed_gazebo': AMENT_PREFIX_PATH=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_gazebo:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_description:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_bringup:/home/harry/turtlebot3_ws/install/turtlebot3_simulations:/home/harry/turtlebot3_ws/install/turtlebot3_manipulation_gazebo:/home/harry/turtlebot3_ws/install/turtlebot3_gazebo:/home/harry/turtlebot3_ws/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake --install /home/harry/assignment_ws/src/l1-harryparikh/build/testbed_gazebo
+[0.432s] -- Install configuration: ""
+[0.432s] -- Execute custom install script
+[0.432s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//launch/spawn_playground.launch.py
+[0.438s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//launch/spawn_testbed.launch.py
+[0.444s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//worlds/testbed_empty.world
+[0.448s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//worlds/testbed_playground.world
+[0.454s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/Fence1/model.config
+[0.459s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/Fence1/model.sdf
+[0.465s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/box_room/meshes/box_room.dae
+[0.470s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/box_room/meshes/chambre.png
+[0.476s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/box_room/model.config
+[0.480s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/box_room/model.sdf
+[0.486s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/eric/model.config
+[0.491s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/eric/model.sdf
+[0.496s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/my_world/model.config
+[0.501s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/my_world/model.sdf
+[0.507s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/test_room/model.config
+[0.512s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/test_room/model.sdf
+[0.517s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/wooden_fence/model.config
+[0.523s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/wooden_fence/model.sdf
+[0.529s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/wooden_fence/wooden_fence/model.config
+[0.535s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo//models/wooden_fence/wooden_fence/model.sdf
+[0.540s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/ament_index/resource_index/package_run_dependencies/testbed_gazebo
+[0.545s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/ament_index/resource_index/parent_prefix_path/testbed_gazebo
+[0.552s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo/environment/ament_prefix_path.sh
+[0.556s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo/environment/ament_prefix_path.dsv
+[0.561s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo/environment/path.sh
+[0.567s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo/environment/path.dsv
+[0.572s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo/local_setup.bash
+[0.578s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo/local_setup.sh
+[0.582s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo/local_setup.zsh
+[0.588s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo/local_setup.dsv
+[0.594s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo/package.dsv
+[0.598s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/ament_index/resource_index/packages/testbed_gazebo
+[0.602s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo/cmake/testbed_gazeboConfig.cmake
+[0.607s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo/cmake/testbed_gazeboConfig-version.cmake
+[0.613s] -- Symlinking: /home/harry/assignment_ws/src/l1-harryparikh/install/testbed_gazebo/share/testbed_gazebo/package.xml
+[0.618s] Invoked command in '/home/harry/assignment_ws/src/l1-harryparikh/build/testbed_gazebo' returned '0': AMENT_PREFIX_PATH=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/assignment_ws/src/l1-harryparikh/install/testbed_description:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_gazebo:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_description:/home/harry/Documents/ERIC/l1-harryparikh-main/install/testbed_bringup:/home/harry/turtlebot3_ws/install/turtlebot3_simulations:/home/harry/turtlebot3_ws/install/turtlebot3_manipulation_gazebo:/home/harry/turtlebot3_ws/install/turtlebot3_gazebo:/home/harry/turtlebot3_ws/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake --install /home/harry/assignment_ws/src/l1-harryparikh/build/testbed_gazebo
