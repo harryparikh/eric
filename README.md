@@ -176,24 +176,6 @@ The navigation stack was tested in Gazebo and RViz by:
 
 ---
 
-# Challenges Faced
-- Understanding Nav2 modular architecture
-- Configuring AMCL correctly
-- Managing map and odom transforms
-- Separating localization and navigation workflows
-- Debugging Nav2 launch dependencies
-
----
-
-# Output
-The robot successfully:
-- loaded maps
-- localized itself
-- accepted navigation goals
-- navigated autonomously in the simulated environment
-
----
-
 # Author
 
 ## Contact Info 
